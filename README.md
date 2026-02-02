@@ -21,5 +21,4 @@ any pull request. They will be ignored.
 
 # Issues
 
-For any problems with the provided code, please open a new pull
-request.
+For any problems with the provided code, please open a new issue.
